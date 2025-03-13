@@ -8,10 +8,11 @@ tags:
 ### Member of The Rosewood Druid circle and the party.
 ---
 ### Rank:
----
+
 A Fledgling druid who set out on a quest, Ranni has officially graduated to a full druid in the Rosewood Circle.
+
 ### Description:
----
+
 
 ![flag](PublicRanniToken.png)
 
