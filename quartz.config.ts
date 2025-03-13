@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "!(Players)**/!(*.md)", "!(*.md)"],
     defaultDateType: "created",
     generateSocialImages: true,
     theme: {
@@ -74,7 +74,10 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [
+	Plugin.RemoveDrafts(),
+	Plugin.ExplicitPublish()
+	],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
