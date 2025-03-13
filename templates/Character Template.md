@@ -2,15 +2,15 @@
 ---
 ### Description:
 ---
-Has hair sometimes
+
 
 ### Voice Description:
 ---
-has a voice at most times.
+
 
 ### Rank:
 ---
-Just a dude. a Guy even.
+
 
 ### Personal Quest:
 ---

@@ -23,4 +23,5 @@ Ranni primarily wears simple clothing, light breezy trousers that reach just bel
 While one would suspect it to be hidden by her feathers, Ranni's Barrier Tattoo is visible on top of them, altering the colours of small parts of her feathers to convey the image without obscuring it in any way. The tattoo's appearance is that of vines reaching up and swirling around druidic glyphs. Which, upon translation, reads "shield of the forest", this tattoo is located on her right arm.
 
 ![[PublicRanniTattoo.png]]
+
  (an image of what the tattoo looks like)
