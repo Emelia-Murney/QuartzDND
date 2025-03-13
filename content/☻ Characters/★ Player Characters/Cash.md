@@ -12,8 +12,11 @@ A certifiable Street urchin and member of the SWMG.
 ### Description:
 
 
-![flag](CashToken.png)
+![[CashToken.png]]
 
-(Cash, in their cloak)
-![flag](CashUncloakedToken.png)
-(Cash, without their cloak)
+	(Cash, in their cloak)
+
+![[CashUncloakedToken.png]]
+
+	(Cash, without their cloak)
+
