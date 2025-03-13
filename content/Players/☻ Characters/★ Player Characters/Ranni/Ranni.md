@@ -1,4 +1,10 @@
- #Player #Druids
+---
+title: Player - Ranni
+publish: true
+tags:
+  - Player
+  - Druids
+---
 ### Member of The Rosewood Druid circle and the party.
 ---
 ### Rank:

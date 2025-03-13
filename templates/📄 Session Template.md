@@ -12,17 +12,24 @@
 	- Current Step: wiwiwi
 	- Next step: mimimi
 
+### Recap:
+---
+time to kill god teehee
+
 ### Things the party should know:
 ---
 - wuhh hwohh :o
 
-### NPCs that might show up:
----
-- hehehehehehehehe >:3
-
 ### Areas explored:
 ---
 heaven
+### Summary:
+---
+party tried to fight god. got penits exploded mysterious
+
+### NPCs that might show up:
+---
+- hehehehehehehehe >:3
 
 ### Important rules:
 ---
@@ -32,12 +39,5 @@ Fall damage 10000000d8
 ---
 fight god
 
-### Recap:
----
-time to kill god teehee
-
-### Summary:
----
-party tried to fight god. got penits exploded mysterious
 
 
