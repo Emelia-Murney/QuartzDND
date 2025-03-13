@@ -23,6 +23,7 @@ time to kill god teehee
 ### Areas explored:
 ---
 heaven
+
 ### Summary:
 ---
 party tried to fight god. got penits exploded mysterious
