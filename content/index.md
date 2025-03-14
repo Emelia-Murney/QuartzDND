@@ -16,7 +16,9 @@ The campaign uses DND 5e with the 2014 ruleset - with plans to update to the 202
 You can find information about Party members in either [[The Party|The Party]] or under #Player. [[The Party]] also contains information about current quests the party is pursuing. 
 
 Info about the world can be found under the Setting folder on the left or you could start with looking at [[Auraxia]]. A map of the world is under [[World Map]].
+### 🕸️ Helpful Links
 
-
-
+- DND Resources - [5e.tools](https://5e.tools/ "https://5e.tools/")
+- Character roller - [DnD dice](https://rgbstudios.org/projects/dnd-dice/character-roller?r=)
+- Token Stamp - [Token Stamp](https://rolladvantage.com/tokenstamp/)
 

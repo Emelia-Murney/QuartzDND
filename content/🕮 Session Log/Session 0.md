@@ -15,7 +15,7 @@
 - Set everything up!
 	- ~~Connect to the server via ZeroTier~~ (Done!)
 	- ~~Set up your character sheet~~ (Done!)
-	- ~~Check you cant access anything you shouldnt be able to~~ (Done!)
+	- ~~Check you cant access anything you shouldn't be able to~~ (Done!)
 - Learn how to use the VTT!
 	- ~~Combat encounter!~~ (Done!)
 
@@ -27,24 +27,26 @@ A short combat encounter occurred that had the party fight a group of bandits in
 
 ### Things the party should know:
 
-- 
+- You can measure out distance for movement using the ruler - Pressing space while having a route plotted out automatically moves the character to the end position.
+- You can ping on the map using middle click. 
 
 ### Areas explored:
 
-
+- The colosseum
+	- A mystical colosseum that draws in fighters from everywhere and nowhere. Nobody knows where it's located, and many people believe it exists outside of time entirely. Fighters are regularly drawn in and expelled on a whim. 
 
 ### Summary:
 
-
+The party fought a group of bandits in a strange colosseum. They conquered the bandits after aclimatising to their surroundings and forms. 
 
 ### NPCs that might show up again:
 
-- 
+- Barry and Harry
+	- Bandit lovers who were struck down in the desert colosseum (it was their wedding) (canonical characters)
 
 ### Important rules:
 
-
-
-
-
-
+- [[Crit hits]]
+- [[Flanking]]
+- [[Massive Damage]]
+- [[Action Options]]
