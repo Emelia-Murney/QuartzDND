@@ -37,15 +37,12 @@ A short combat encounter occurred that had the party fight a group of bandits in
 
 
 
-### NPCs that might show up:
+### NPCs that might show up again:
 
 - 
 
 ### Important rules:
 
-
-
-### Planned encounters:
 
 
 
