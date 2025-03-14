@@ -5,7 +5,7 @@ tags:
   - Player
 ---
 ### History
----
+
 The party was formed by [[Gaius|Gaius]] acting as a quest fixer. 
 
 ### Members
