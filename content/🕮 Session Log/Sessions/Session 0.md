@@ -1,6 +1,13 @@
-# The Dome
 ---
-### Date: 30/11/25
+title: Session 0 Log
+subtitle: The Dome
+Date: 2025-11-30
+tags:
+  - Session
+---
+# `$= dv.current().subtitle`
+---
+### Date: `$= dv.current().Date`
 
 ### Characters:
 
@@ -21,7 +28,7 @@
 
 ### Recap:
 
-A short Setup session to help everyone get into the VTT. Introduced the tools available i.e measurement and ping. 
+A short Setup session to help everyone get into the VTT. Introduced the tools available I.e. measurement and ping. 
 
 A short combat encounter occurred that had the party fight a group of bandits in a colosseum. This gave the party a chance to test their combat capabilities and figure out how to use their features.
 

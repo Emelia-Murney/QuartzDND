@@ -1,7 +1,7 @@
 ---
-title: <% tp.file.title %> Log
+title: Session 1 Log
 subtitle: Subtitle
-Date: 
+Date: 2024-12-07
 tags:
   - Session
 ---
