@@ -1,7 +1,8 @@
 ---
 title: Session 4 Log
-subtitle: Subtitle
+subtitle: The Travelling Circus
 Date: 2025-01-16
+LevelUp: false
 tags:
   - Session
 ---

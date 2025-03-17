@@ -1,7 +1,8 @@
 ---
 title: Session 10 Log
-subtitle: Subtitle
+subtitle: Rock and Stone
 Date: 2025-03-16
+LevelUp: true
 tags:
   - Session
 ---
@@ -41,7 +42,8 @@ tags:
 
 ### Important rules:
 
-
+ - [[Massive Damage]]
+ - [[Cleaving through Creatures]]
 
 
 

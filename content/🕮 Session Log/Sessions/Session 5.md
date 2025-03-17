@@ -1,7 +1,8 @@
 ---
 title: Session 5 Log
-subtitle: Subtitle
+subtitle: The Slavers Village
 Date: 2025-01-24
+LevelUp: true
 tags:
   - Session
 ---

@@ -1,7 +1,8 @@
 ---
 title: Session 7 Log
-subtitle: Subtitle
-Date: 
+subtitle: The break in
+Date: 2025-02-16
+LevelUp: false
 tags:
   - Session
 ---

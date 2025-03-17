@@ -1,7 +1,8 @@
 ---
 title: Session 6 Log
-subtitle: Subtitle
-Date: 
+subtitle: The city of the Ravine
+Date: 2025-02-02
+LevelUp: false
 tags:
   - Session
 ---

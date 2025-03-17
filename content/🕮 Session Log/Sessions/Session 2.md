@@ -2,6 +2,7 @@
 title: Session 2 Log
 subtitle: The Crater
 Date: 2024-12-13
+LevelUp: false
 tags:
   - Session
 ---

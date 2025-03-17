@@ -2,6 +2,7 @@
 title: Session 3 Log
 subtitle: The Cultist Dungeon
 Date: 2025-01-10
+LevelUp: false
 tags:
   - Session
 ---

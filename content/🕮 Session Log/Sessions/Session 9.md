@@ -1,7 +1,8 @@
 ---
 title: Session 9 Log
-subtitle: Subtitle
+subtitle: Tower in the sky
 Date: 2025-03-08
+LevelUp: false
 tags:
   - Session
 ---

@@ -2,6 +2,7 @@
 title: Session 1 Log
 subtitle: The Wastelands
 Date: 2024-12-07
+LevelUp: true
 tags:
   - Session
 ---

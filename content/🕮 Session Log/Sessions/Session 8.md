@@ -1,7 +1,8 @@
 ---
 title: Session 8 Log
-subtitle: Subtitle
+subtitle: The tower
 Date: 2025-03-01
+LevelUp: false
 tags:
   - Session
 ---

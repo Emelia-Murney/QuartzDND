@@ -11,7 +11,7 @@ The history of the world is also detailed, typically from the perspective of a c
 These notes are a WIP! they might not have the most up to date knowledge, but I should be making session logs under #Session or you can see more information in the [[Session Schedule]]. Just give me a quick @ on discord if I've forgotten to add something! I don't bite! (usually)
 ###  🪴 Info
 
-The campaign uses DND 5e with the 2014 ruleset - with plans to update to the 2024 rules for the campaign after this one. House rules can be found under the House rules folder in the Setting folder, or you can use the #HouseRule tag. 
+The campaign uses DND 5e with the 2014 ruleset - with plans to update to the 2024 rules for the campaign after this one. House rules can be found in a list in [[House Rules]], or you can use the #HouseRule tag. 
 
 You can find information about Party members in either [[The Party|The Party]] or under #Player. [[The Party]] also contains information about current quests the party is pursuing. 
 

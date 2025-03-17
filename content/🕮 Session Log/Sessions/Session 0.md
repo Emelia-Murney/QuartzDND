@@ -2,6 +2,7 @@
 title: Session 0 Log
 subtitle: The Dome
 Date: 2025-11-30
+LevelUp: false
 tags:
   - Session
 ---
@@ -42,6 +43,9 @@ A short combat encounter occurred that had the party fight a group of bandits in
 - The colosseum
 	- A mystical colosseum that draws in fighters from everywhere and nowhere. Nobody knows where it's located, and many people believe it exists outside of time entirely. Fighters are regularly drawn in and expelled on a whim. 
 
+### Levelled up?
+
+`$= dv.current().LevelUp`
 ### Summary:
 
 The party fought a group of bandits in a strange colosseum. They conquered the bandits after aclimatising to their surroundings and forms. 
