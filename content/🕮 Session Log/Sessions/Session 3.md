@@ -1,6 +1,6 @@
 ---
 title: Session 3 Log
-subtitle: Subtitle
+subtitle: The Cultist Dungeon
 Date: 2025-01-10
 tags:
   - Session

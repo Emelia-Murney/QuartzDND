@@ -1,6 +1,6 @@
 ---
 title: Session 1 Log
-subtitle: Subtitle
+subtitle: The Wastelands
 Date: 2024-12-07
 tags:
   - Session

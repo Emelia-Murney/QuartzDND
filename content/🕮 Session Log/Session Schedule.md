@@ -9,8 +9,15 @@ A list of all sessions and when they took place can be viewed below. It will lin
 
 ```dataviewjs
 let pages = dv.pages('"content/🕮 Session Log/Sessions"');
+let values = [];
 for (let i = 0; i < pages.length; i++) {
-	dv.span("- [[" + pages[i].file.name + "]]: " + pages[i].subtitle + " --- " + pages[i].Date);
+	values.push(pages[i]);
+}
+values.sort((a,b)=> Number(a.file.name.split(" ")[1])-Number(b.file.name.split(" ")[1]));
+for (let i = 0; i < pages.length; i++) {
+	let page = values[i];
+	const myDateTime = DateTime.fromSeconds(Number(page.Date) / 1000);
+	dv.span("- [[" + page.file.name + "]]: " + page.subtitle + " --- " + myDateTime.setLocale('en').toLocaleString(DateTime.DATE_HUGE));
 }
 ```
 

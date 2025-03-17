@@ -1,6 +1,6 @@
 ---
 title: Session 2 Log
-subtitle: Subtitle
+subtitle: The Crater
 Date: 2024-12-13
 tags:
   - Session
